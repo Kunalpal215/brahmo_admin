@@ -1,5 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.brahmo_admin">
+    <uses-permission android:name="android.permission.VIBRATE"/>
    <application
         android:label="brahmo_admin"
         android:name="${applicationName}"

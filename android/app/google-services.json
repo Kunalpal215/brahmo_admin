@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "549839811474",
+    "project_id": "brahmo",
+    "storage_bucket": "brahmo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549839811474:android:12acea6aa24081fb6d874b",
+        "android_client_info": {
+          "package_name": "com.example.brahmo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549839811474-8vtbaq52k3qifqufqh3f5skv4vcsou2u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjx4F9WCq4tBY4inXjjFmSETJTAgBLSL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549839811474-8vtbaq52k3qifqufqh3f5skv4vcsou2u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549839811474:android:619f75e0a3797d086d874b",
+        "android_client_info": {
+          "package_name": "com.example.brahmo_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549839811474-8vtbaq52k3qifqufqh3f5skv4vcsou2u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjx4F9WCq4tBY4inXjjFmSETJTAgBLSL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549839811474-8vtbaq52k3qifqufqh3f5skv4vcsou2u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
